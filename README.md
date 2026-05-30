@@ -39,9 +39,9 @@ This Power BI project analyzes IPL match data to provide insights into team perf
 
 📂 Files Included
 
-- IPL Analytics Dashboard.pbix
+- IPL-ANALYTICS-DASHBOARD.pbix
 - Dirty_IPL_Analytics_700.csv
-- IPL_Analytics_Project.pdf
+- DASHBOARD.png
 
 🔗 Project Link
 
