@@ -45,4 +45,4 @@ This Power BI project analyzes IPL match data to provide insights into team perf
 
 🔗 Project Link
 
-[[PASTE GITHUB LINK HERE].(https://github.com/PranithaSriDasari/IPL-ANALYTICS-DASHBOARD--Power-BI-Project.git).]
+[[PASTE GITHUB LINK HERE].(https://github.com/PranithaSriDasari/IPL-ANALYTICS-DASHBOARD-Power-BI-Project.git).]
